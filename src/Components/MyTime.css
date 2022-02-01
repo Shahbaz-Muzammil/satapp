@@ -1,0 +1,20 @@
+.time {
+  margin: 150px;
+  border: 5px solid navy;
+  padding: 10px;
+}
+.parent {
+  margin: 50px;
+  border: 5px solid navy;
+  padding: 10px;
+}
+.child {
+  margin: 20px;
+  border: 5px solid orange;
+  padding: 10px;
+}
+.grandchild {
+  margin: 20px;
+  border: 5px solid purple;
+  padding: 10px;
+}
