@@ -1,0 +1,9 @@
+.bulb {
+  width: 200px;
+  height: 230px;
+  background-color: green;
+  border: solid 5px maroon;
+  border-radius: 100px;
+  padding: 70px;
+  color: aliceblue;
+}
